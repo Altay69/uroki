@@ -8,6 +8,6 @@ func main() {
 
 	fmt.Println("Osnovy yazika Go")
 
-	fmt.Println("Asxa Prince Lety")
+	fmt.Println("Asxa Prince Lety ")
 
 }
